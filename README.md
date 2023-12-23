@@ -1,2 +1,2 @@
-# HTLML-CSS
-Contains all projects related to html and css i am working on or have worked on
+# YOUTUBE CLONE
+For my first project using html and CSS, i decided to create a mini youtube clone
